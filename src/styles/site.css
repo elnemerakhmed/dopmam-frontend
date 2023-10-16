@@ -1,0 +1,32 @@
+.logo {
+    float: left;
+    color: white;
+    font-weight: bold;
+    font-size: 1rem;
+    text-transform: uppercase;
+    margin-right: 20px;
+    cursor: pointer;
+}
+
+@media (min-width: 600px) {
+    .user-menu {
+        position: absolute !important;
+        right: 45px !important;
+    }
+}
+
+.breadcrumb {
+    margin: 16px 0 !important;
+}
+
+.has-padding {
+    padding: 24px;
+}
+
+.white {
+    background-color: white;
+}
+
+.site-footer {
+    text-align: center;
+}
